@@ -1,0 +1,38 @@
+# ROS 2/colcon build artifacts
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# VSCode and editor files
+.vscode/
+*.swp
+*~
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
+
+# ROS 2 launch/params auto-generated
+*.launch.pyc
+*.yamlc
+
+# Ignore large data or simulation outputs
+*.bag
+*.db
+*.log
+*.csv
+*.mat
+*.h5
+*.npz
+*.npy
+
+# Ignore urdf/meshes if generated elsewhere
+*.dae
+*.stl
+*.obj 
