@@ -1,0 +1,50 @@
+[35m[1mConsolidate compiler generated dependencies of target gtest_main[0m
+[35m[1mConsolidate compiler generated dependencies of target gtest[0m
+[35m[1mConsolidate compiler generated dependencies of target lbr_fri_ros2[0m
+[ 10%] Built target gtest_main
+[ 20%] Built target gtest
+[ 90%] Built target lbr_fri_ros2
+[35m[1mConsolidate compiler generated dependencies of target test_command_interfaces[0m
+[100%] Built target test_command_interfaces
+-- Install configuration: "Release"
+-- Execute custom install script
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/environment/library_path.sh
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/environment/library_path.dsv
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/app.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/async_client.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/command_guard.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/control.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/filters.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/formatting.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/ft_estimator.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/interfaces/base_command.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/interfaces/position_command.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/interfaces/state.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/interfaces/torque_command.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/interfaces/wrench_command.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/kinematics.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/pinv.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/types.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/utils.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/include/lbr_fri_ros2/worker.hpp
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/ament_index/resource_index/package_run_dependencies/lbr_fri_ros2
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/ament_index/resource_index/parent_prefix_path/lbr_fri_ros2
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/environment/ament_prefix_path.sh
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/environment/ament_prefix_path.dsv
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/environment/path.sh
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/environment/path.dsv
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/local_setup.bash
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/local_setup.sh
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/local_setup.zsh
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/local_setup.dsv
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/package.dsv
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/ament_index/resource_index/packages/lbr_fri_ros2
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/cmake/ament_cmake_export_targets-extras.cmake
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/cmake/lbr_fri_ros2Config.cmake
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/cmake/lbr_fri_ros2Config-version.cmake
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/package.xml
+-- Installing: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/lib/liblbr_fri_ros2.so
+-- Set runtime path of "/home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/lib/liblbr_fri_ros2.so" to ""
+-- Installing: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/cmake/lbr_fri_ros2_exportExport.cmake
+-- Installing: /home/suphasitpp/my_msc_ws/install/lbr_fri_ros2/share/lbr_fri_ros2/cmake/lbr_fri_ros2_exportExport-release.cmake

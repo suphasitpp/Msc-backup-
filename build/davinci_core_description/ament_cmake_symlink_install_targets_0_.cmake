@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/suphasitpp/my_msc_ws/build/davinci_core_description/davinci_core_joint_controller" "TARGETS" "davinci_core_joint_controller" "DESTINATION" "lib/davinci_core_description")

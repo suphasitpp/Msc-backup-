@@ -1,0 +1,1 @@
+/home/suphasitpp/my_msc_ws/build/davinci_core_description/ament_cmake_environment_hooks/local_setup.bash

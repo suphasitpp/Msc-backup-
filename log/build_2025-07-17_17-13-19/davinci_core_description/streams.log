@@ -1,0 +1,45 @@
+[0.488s] Invoking command in '/home/suphasitpp/my_msc_ws/build/davinci_core_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/davinci_core_description -- -j8 -l8
+[0.618s] [35m[1mConsolidate compiler generated dependencies of target davinci_core_joint_controller[0m
+[0.651s] [100%] Built target davinci_core_joint_controller
+[0.791s] Invoked command in '/home/suphasitpp/my_msc_ws/build/davinci_core_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/davinci_core_description -- -j8 -l8
+[0.792s] Invoking command in '/home/suphasitpp/my_msc_ws/build/davinci_core_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/davinci_core_description
+[1.192s] -- Install configuration: ""
+[1.192s] -- Execute custom install script
+[1.192s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/config/davinci_core.controllers.yaml
+[1.192s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/launch/README.md
+[1.192s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/launch/davinci_core_bringup.launch.py
+[1.192s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/launch/view_robot.launch.py
+[1.193s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/meshes/mounting_base.stl
+[1.193s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/meshes/outer_insertion.stl
+[1.193s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/meshes/outer_pitch_base.stl
+[1.193s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/meshes/outer_pitch_bottom.stl
+[1.194s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/meshes/outer_pitch_front.stl
+[1.194s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/meshes/outer_pitch_top.stl
+[1.194s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/meshes/outer_yaw.stl
+[1.194s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/meshes/slave_frame.stl
+[1.196s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/meshes/tool_adaptor.stl
+[1.196s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/meshes/tool_asm.stl
+[1.196s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/rviz/davinci_core_description.rviz
+[1.197s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/urdf/README.md
+[1.197s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/urdf/daVinci.urdf.xacro
+[1.197s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/urdf/ros2_control/README.md
+[1.197s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/urdf/ros2_control/daVinci.arm.ros2_control.xacro
+[1.197s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/urdf/xacros/README.md
+[1.197s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/urdf/xacros/daVinci.arm.xacro
+[1.198s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/lib/davinci_core_description/davinci_core_joint_controller
+[1.198s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/ament_index/resource_index/package_run_dependencies/davinci_core_description
+[1.198s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/ament_index/resource_index/parent_prefix_path/davinci_core_description
+[1.199s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/environment/ament_prefix_path.sh
+[1.199s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/environment/ament_prefix_path.dsv
+[1.199s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/environment/path.sh
+[1.200s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/environment/path.dsv
+[1.201s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/local_setup.bash
+[1.202s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/local_setup.sh
+[1.202s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/local_setup.zsh
+[1.202s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/local_setup.dsv
+[1.202s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/package.dsv
+[1.202s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/ament_index/resource_index/packages/davinci_core_description
+[1.203s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/cmake/davinci_core_descriptionConfig.cmake
+[1.203s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/cmake/davinci_core_descriptionConfig-version.cmake
+[1.203s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/davinci_core_description/share/davinci_core_description/package.xml
+[1.618s] Invoked command in '/home/suphasitpp/my_msc_ws/build/davinci_core_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/davinci_core_description

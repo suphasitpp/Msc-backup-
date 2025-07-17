@@ -1,0 +1,1 @@
+/home/suphasitpp/my_msc_ws/build/med14_moveit_config/ament_cmake_environment_hooks/local_setup.zsh

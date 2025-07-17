@@ -1,0 +1,2 @@
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:355: UserWarning: Unbuilt egg for pyoptas [unknown version] (/home/suphasitpp/my_msc_ws/build/pyoptas)
+  self.local_index = Environment(self.shadow_path + sys.path)

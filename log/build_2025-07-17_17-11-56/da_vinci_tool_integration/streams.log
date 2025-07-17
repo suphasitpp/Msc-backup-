@@ -1,0 +1,53 @@
+[1.235s] Invoking command in '/home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration': PYTHONPATH=/home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/build --no-deps symlink_data
+[2.701s] running develop
+[2.702s] running egg_info
+[2.702s] creating da_vinci_tool_integration.egg-info
+[2.702s] writing da_vinci_tool_integration.egg-info/PKG-INFO
+[2.702s] writing dependency_links to da_vinci_tool_integration.egg-info/dependency_links.txt
+[2.702s] writing entry points to da_vinci_tool_integration.egg-info/entry_points.txt
+[2.702s] writing requirements to da_vinci_tool_integration.egg-info/requires.txt
+[2.702s] writing top-level names to da_vinci_tool_integration.egg-info/top_level.txt
+[2.702s] writing manifest file 'da_vinci_tool_integration.egg-info/SOURCES.txt'
+[2.702s] reading manifest file 'da_vinci_tool_integration.egg-info/SOURCES.txt'
+[2.702s] writing manifest file 'da_vinci_tool_integration.egg-info/SOURCES.txt'
+[2.703s] running build_ext
+[2.703s] Creating /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/lib/python3.10/site-packages/da-vinci-tool-integration.egg-link (link to .)
+[2.703s] Installing ik_node script to /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/lib/da_vinci_tool_integration
+[2.703s] 
+[2.703s] Installed /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration
+[2.703s] running symlink_data
+[2.703s] creating /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/ament_index
+[2.703s] creating /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/ament_index/resource_index
+[2.703s] creating /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/ament_index/resource_index/packages
+[2.703s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/resource/da_vinci_tool_integration -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/ament_index/resource_index/packages
+[2.703s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/package.xml -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration
+[2.704s] creating /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/launch
+[2.704s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/launch/med7_combined_simple.launch.py -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/launch
+[2.704s] creating /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/urdf
+[2.704s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/urdf/med7.xacro -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/urdf
+[2.704s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/urdf/med7_arm_only.xacro -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/urdf
+[2.704s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/urdf/psm.base.xacro -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/urdf
+[2.704s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/urdf/psm.classic.urdf.xacro -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/urdf
+[2.704s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/urdf/psm.tool.xacro -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/urdf
+[2.704s] creating /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/urdf/adaptor
+[2.704s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/urdf/adaptor/adaptor.urdf -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/urdf/adaptor
+[2.704s] creating /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/urdf/adaptor/meshes
+[2.704s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/urdf/adaptor/meshes/Da_vinci_si_manipulator.stl -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/urdf/adaptor/meshes
+[2.705s] creating /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/moveit_config
+[2.705s] creating /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/moveit_config/launch
+[2.705s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/moveit_config/launch/move_group.launch.py -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/moveit_config/launch
+[2.706s] creating /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/moveit_config/config
+[2.706s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/moveit_config/config/kinematics.yaml -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/moveit_config/config
+[2.706s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/moveit_config/config/joint_limits.yaml -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/moveit_config/config
+[2.706s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/moveit_config/config/med7.srdf -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/moveit_config/config
+[2.706s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/moveit_config/config/moveit.rviz -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/moveit_config/config
+[2.706s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/moveit_config/config/moveit_controllers.yaml -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/moveit_config/config
+[2.706s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/moveit_config/config/pilz_cartesian_limits.yaml -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/moveit_config/config
+[2.706s] creating /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/config
+[2.707s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/moveit_config/config/kinematics.yaml -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/config
+[2.707s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/moveit_config/config/joint_limits.yaml -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/config
+[2.707s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/moveit_config/config/med7.srdf -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/config
+[2.707s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/moveit_config/config/moveit.rviz -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/config
+[2.707s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/moveit_config/config/moveit_controllers.yaml -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/config
+[2.707s] symbolically linking /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/moveit_config/config/pilz_cartesian_limits.yaml -> /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/share/da_vinci_tool_integration/config
+[2.712s] Invoked command in '/home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration' returned '0': PYTHONPATH=/home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration/build --no-deps symlink_data

@@ -1,0 +1,173 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+-- Found xacro: 2.0.13 (/opt/ros/humble/share/xacro/cmake)
+-- Found robot_state_publisher: 3.0.3 (/opt/ros/humble/share/robot_state_publisher/cmake)
+-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+-- Found Eigen3: TRUE (found version "3.4.0") 
+-- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Found FastRTPS: /opt/ros/humble/include  
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found trajectory_msgs: 4.8.0 (/opt/ros/humble/share/trajectory_msgs/cmake)
+-- Found controller_manager: 2.50.0 (/opt/ros/humble/share/controller_manager/cmake)
+-- Found joint_state_broadcaster: 2.45.0 (/opt/ros/humble/share/joint_state_broadcaster/cmake)
+-- Found position_controllers: 2.45.0 (/opt/ros/humble/share/position_controllers/cmake)
+-- Found ros2_control: 2.50.0 (/opt/ros/humble/share/ros2_control/cmake)
+-- Found ros2_controllers: 2.45.0 (/opt/ros/humble/share/ros2_controllers/cmake)
+-- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+-- Found rclpy: 3.3.16 (/opt/ros/humble/share/rclpy/cmake)
+-- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/suphasitpp/my_msc_ws/build/psm_description
+[ 50%] [32mBuilding CXX object CMakeFiles/psm_joint_controller.dir/src/psm_joint_controller.cpp.o[0m
+[100%] [32m[1mLinking CXX executable psm_joint_controller[0m
+[100%] Built target psm_joint_controller
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/launch/README.md
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/launch/psm_bringup.launch.py
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/launch/view_robot.launch.py
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/knife.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_insertion.dae
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_insertion.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_back.dae
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_back.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_bottom.dae
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_bottom.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_front.dae
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_front.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_top.dae
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_top.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_yaw.dae
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_yaw.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/psm_base.dae
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/psm_base.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_adapter.dae
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_adapter.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_main.dae
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_main.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_caudier_link_1.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_caudier_link_1_shaft.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_caudier_link_2.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_link.dae
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_link.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_sca_link.dae
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_sca_link.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_sca_link_2.dae
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_sca_link_2.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_sca_shaft_link.dae
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_sca_shaft_link.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_shaft_link.dae
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_shaft_link.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_main_link.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_wrist_link.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_wrist_sca_ee_link_1.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_wrist_sca_ee_link_2.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_wrist_sca_link.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_wrist_sca_shaft_link.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_wrist_scal_link.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_wrist_shaft_link.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/SF826001/tool_main_link.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/SF826001/tool_roll_link.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Si/link_0.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Si/link_1.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Si/link_2.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Si/link_3.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Si/link_4.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/snake_tool/gripper_2.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/snake_tool/gripper_3.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/snake_tool/link_0.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/snake_tool/link_1.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/snake_tool/link_2.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/snake_tool/link_3.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/snake_tool/link_4.stl
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/rviz/psm_description.rviz
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/README.md
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/both_psms.classic.urdf.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/psm.classic.urdf.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/psm.si.urdf.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/README.md
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.base.ros2_control.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.tool.blade.ros2_control.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.tool.caudier.blade.ros2_control.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.tool.caudier.ros2_control.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.tool.ros2_control.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.tool.sca.blade.ros2_control.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.tool.sca.ros2_control.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.tool.snake.ros2_control.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Si/README.md
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Si/psm.base.ros2_control.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Si/psm.tool.P420006.ros2_control.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Si/psm.tool.SF826001.ros2_control.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Si/psm.tool.ros2_control.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/README.md
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.base.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.tool.blade.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.tool.caudier.blade.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.tool.caudier.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.tool.sca.blade.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.tool.sca.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.tool.snake.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.tool.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Si/README.md
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Si/psm.base.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Si/psm.tool.P420006.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Si/psm.tool.SF826001.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Si/psm.tool.xacro
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/lib/psm_description/psm_joint_controller
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/lib/psm_description/generate_controller.py
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/ament_index/resource_index/package_run_dependencies/psm_description
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/ament_index/resource_index/parent_prefix_path/psm_description
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/environment/path.sh
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/environment/path.dsv
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/local_setup.bash
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/local_setup.sh
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/local_setup.zsh
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/local_setup.dsv
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/package.dsv
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/ament_index/resource_index/packages/psm_description
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/cmake/psm_descriptionConfig.cmake
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/cmake/psm_descriptionConfig-version.cmake
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/package.xml

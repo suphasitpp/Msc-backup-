@@ -1,0 +1,15 @@
+setup.py
+optas/__init__.py
+optas/builder.py
+optas/models.py
+optas/optimization.py
+optas/solver.py
+optas/spatialmath.py
+optas/sx_container.py
+optas/templates.py
+optas/visualize.py
+pyoptas.egg-info/PKG-INFO
+pyoptas.egg-info/SOURCES.txt
+pyoptas.egg-info/dependency_links.txt
+pyoptas.egg-info/requires.txt
+pyoptas.egg-info/top_level.txt

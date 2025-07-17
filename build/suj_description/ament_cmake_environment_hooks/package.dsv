@@ -1,0 +1,4 @@
+source;share/suj_description/local_setup.bash
+source;share/suj_description/local_setup.dsv
+source;share/suj_description/local_setup.sh
+source;share/suj_description/local_setup.zsh

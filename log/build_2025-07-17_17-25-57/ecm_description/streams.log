@@ -1,0 +1,57 @@
+[0.104s] Invoking command in '/home/suphasitpp/my_msc_ws/build/ecm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/ecm_description -- -j8 -l8
+[0.357s] [100%] Built target ecm_joint_controller
+[0.646s] Invoked command in '/home/suphasitpp/my_msc_ws/build/ecm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/ecm_description -- -j8 -l8
+[0.647s] Invoking command in '/home/suphasitpp/my_msc_ws/build/ecm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/ecm_description
+[0.693s] -- Install configuration: ""
+[0.693s] -- Execute custom install script
+[0.694s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/config/ecm.base.controllers.yaml
+[0.694s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/config/ecm.controllers.yaml
+[0.700s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/launch/README.md
+[0.700s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/launch/ecm_base_bringup.launch.py
+[0.701s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/launch/ecm_bringup.launch.py
+[0.702s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/launch/view_robot.launch.py
+[0.703s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm/EndoScope.stl
+[0.703s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm/Endo_Arm.stl
+[0.703s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm/Endo_Link_5.stl
+[0.704s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm/Endo_Link_5_2.stl
+[0.704s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm/Endo_Link_6_2.stl
+[0.704s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm/Endo_Link_7.stl
+[0.704s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm/Endo_Link_8.stl
+[0.707s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_base_link.stl
+[0.707s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_main_insertion_link.stl
+[0.707s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_pitch_back_link.stl
+[0.707s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_pitch_bottom_link.stl
+[0.707s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_pitch_end_link.stl
+[0.707s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_pitch_front_link.stl
+[0.707s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_pitch_top_link.stl
+[0.707s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_remote_center_link.stl
+[0.708s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_tool_link.stl
+[0.708s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_yaw_link.stl
+[0.708s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/rviz/ecm_description.rviz
+[0.708s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/README.md
+[0.708s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/ecm.base.urdf.xacro
+[0.708s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/ecm.urdf.xacro
+[0.708s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/ros2_control/README.md
+[0.708s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/ros2_control/ecm.base.ros2_control.xacro
+[0.709s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/ros2_control/ecm.ros2_control.xacro
+[0.709s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/xacros/README.md
+[0.709s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/xacros/common.xacro
+[0.709s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/xacros/ecm.base.xacro
+[0.709s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/xacros/ecm.xacro
+[0.710s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/lib/ecm_description/ecm_joint_controller
+[0.710s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ament_index/resource_index/package_run_dependencies/ecm_description
+[0.710s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ament_index/resource_index/parent_prefix_path/ecm_description
+[0.710s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/environment/ament_prefix_path.sh
+[0.710s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/environment/ament_prefix_path.dsv
+[0.710s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/environment/path.sh
+[0.711s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/environment/path.dsv
+[0.711s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/local_setup.bash
+[0.711s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/local_setup.sh
+[0.711s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/local_setup.zsh
+[0.711s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/local_setup.dsv
+[0.711s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/package.dsv
+[0.784s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ament_index/resource_index/packages/ecm_description
+[0.784s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/cmake/ecm_descriptionConfig.cmake
+[0.784s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/cmake/ecm_descriptionConfig-version.cmake
+[0.785s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/package.xml
+[0.840s] Invoked command in '/home/suphasitpp/my_msc_ws/build/ecm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/ecm_description

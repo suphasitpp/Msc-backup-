@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-2e439b16f7b6972cc0c5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lbr_demos_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "joint_sine_overlay::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-joint_sine_overlay-Release-a1205e2d2551d8aef7a5.json",
+					"name" : "joint_sine_overlay",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "joint_trajectory_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-joint_trajectory_client-Release-01bdfe5d432a28148792.json",
+					"name" : "joint_trajectory_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lbr_demos_cpp_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lbr_demos_cpp_uninstall-Release-9ad0a184e60a6ec249a4.json",
+					"name" : "lbr_demos_cpp_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "torque_sine_overlay::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-torque_sine_overlay-Release-2444737301d3e0b59fe2.json",
+					"name" : "torque_sine_overlay",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-a251d7ce5dbd4c1266c1.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wrench_sine_overlay::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wrench_sine_overlay-Release-c62a67ad64b68ea73db6.json",
+					"name" : "wrench_sine_overlay",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/suphasitpp/my_msc_ws/build/lbr_demos_cpp",
+		"source" : "/home/suphasitpp/my_msc_ws/src/lbr_fri_ros2_stack/lbr_demos/lbr_demos_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

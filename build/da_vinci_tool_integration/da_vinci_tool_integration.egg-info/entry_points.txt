@@ -1,0 +1,3 @@
+[console_scripts]
+ik_node = da_vinci_tool_integration.ik_node:main
+

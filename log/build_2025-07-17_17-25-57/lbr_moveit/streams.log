@@ -1,0 +1,17 @@
+[2.449s] Invoking command in '/home/suphasitpp/my_msc_ws/build/lbr_moveit': PYTHONPATH=/home/suphasitpp/my_msc_ws/build/lbr_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/suphasitpp/my_msc_ws/install/lbr_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/suphasitpp/my_msc_ws/build/lbr_moveit/build --no-deps symlink_data
+[2.979s] running develop
+[3.272s] running egg_info
+[3.274s] writing lbr_moveit.egg-info/PKG-INFO
+[3.274s] writing dependency_links to lbr_moveit.egg-info/dependency_links.txt
+[3.274s] writing entry points to lbr_moveit.egg-info/entry_points.txt
+[3.274s] writing requirements to lbr_moveit.egg-info/requires.txt
+[3.274s] writing top-level names to lbr_moveit.egg-info/top_level.txt
+[3.275s] reading manifest file 'lbr_moveit.egg-info/SOURCES.txt'
+[3.277s] writing manifest file 'lbr_moveit.egg-info/SOURCES.txt'
+[3.278s] running build_ext
+[3.278s] Creating /home/suphasitpp/my_msc_ws/install/lbr_moveit/lib/python3.10/site-packages/lbr-moveit.egg-link (link to .)
+[3.280s] Installing forward_keyboard script to /home/suphasitpp/my_msc_ws/install/lbr_moveit/lib/lbr_moveit
+[3.280s] 
+[3.280s] Installed /home/suphasitpp/my_msc_ws/build/lbr_moveit
+[3.281s] running symlink_data
+[3.350s] Invoked command in '/home/suphasitpp/my_msc_ws/build/lbr_moveit' returned '0': PYTHONPATH=/home/suphasitpp/my_msc_ws/build/lbr_moveit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/suphasitpp/my_msc_ws/install/lbr_moveit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/suphasitpp/my_msc_ws/build/lbr_moveit/build --no-deps symlink_data

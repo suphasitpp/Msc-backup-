@@ -1,0 +1,4 @@
+source;share/patient_cart_description/local_setup.bash
+source;share/patient_cart_description/local_setup.dsv
+source;share/patient_cart_description/local_setup.sh
+source;share/patient_cart_description/local_setup.zsh

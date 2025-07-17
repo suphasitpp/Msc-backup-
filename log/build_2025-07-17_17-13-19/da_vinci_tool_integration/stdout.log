@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing da_vinci_tool_integration.egg-info/PKG-INFO
+writing dependency_links to da_vinci_tool_integration.egg-info/dependency_links.txt
+writing entry points to da_vinci_tool_integration.egg-info/entry_points.txt
+writing requirements to da_vinci_tool_integration.egg-info/requires.txt
+writing top-level names to da_vinci_tool_integration.egg-info/top_level.txt
+reading manifest file 'da_vinci_tool_integration.egg-info/SOURCES.txt'
+writing manifest file 'da_vinci_tool_integration.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/lib/python3.10/site-packages/da-vinci-tool-integration.egg-link (link to .)
+Installing ik_node script to /home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration/lib/da_vinci_tool_integration
+
+Installed /home/suphasitpp/my_msc_ws/build/da_vinci_tool_integration
+running symlink_data

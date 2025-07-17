@@ -1,0 +1,1 @@
+/home/suphasitpp/my_msc_ws/src/lbr_fri_ros2_stack/lbr_moveit_config/iiwa14_moveit_config/launch/moveit_rviz.launch.py

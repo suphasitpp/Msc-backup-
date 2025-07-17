@@ -1,0 +1,1 @@
+/home/suphasitpp/my_msc_ws/build/suj_description/ament_cmake_core/suj_descriptionConfig-version.cmake

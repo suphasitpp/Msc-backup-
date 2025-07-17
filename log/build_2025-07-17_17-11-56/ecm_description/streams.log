@@ -1,0 +1,121 @@
+[0.058s] Invoking command in '/home/suphasitpp/my_msc_ws/build/ecm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake /home/suphasitpp/my_msc_ws/src/dvrk_urdf/ecm_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/suphasitpp/my_msc_ws/install/ecm_description
+[0.602s] -- The C compiler identification is GNU 11.4.0
+[0.654s] -- The CXX compiler identification is GNU 11.4.0
+[0.685s] -- Detecting C compiler ABI info
+[0.956s] -- Detecting C compiler ABI info - done
+[0.979s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.979s] -- Detecting C compile features
+[0.982s] -- Detecting C compile features - done
+[0.986s] -- Detecting CXX compiler ABI info
+[1.265s] -- Detecting CXX compiler ABI info - done
+[1.280s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.280s] -- Detecting CXX compile features
+[1.281s] -- Detecting CXX compile features - done
+[1.289s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.675s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.869s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.993s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[2.190s] -- Found xacro: 2.0.13 (/opt/ros/humble/share/xacro/cmake)
+[2.194s] -- Found robot_state_publisher: 3.0.3 (/opt/ros/humble/share/robot_state_publisher/cmake)
+[2.270s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.286s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.307s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.338s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.372s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.516s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[2.516s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[2.516s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[2.617s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.629s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.686s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[3.055s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[3.060s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[3.099s] -- Found FastRTPS: /opt/ros/humble/include  
+[3.108s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[3.132s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[3.194s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.218s] -- Looking for pthread.h
+[3.521s] -- Looking for pthread.h - found
+[3.521s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.713s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.714s] -- Found Threads: TRUE  
+[4.063s] -- Found trajectory_msgs: 4.8.0 (/opt/ros/humble/share/trajectory_msgs/cmake)
+[4.101s] -- Found controller_manager: 2.50.0 (/opt/ros/humble/share/controller_manager/cmake)
+[4.332s] -- Found joint_state_broadcaster: 2.45.0 (/opt/ros/humble/share/joint_state_broadcaster/cmake)
+[4.423s] -- Found position_controllers: 2.45.0 (/opt/ros/humble/share/position_controllers/cmake)
+[4.479s] -- Found ros2_control: 2.50.0 (/opt/ros/humble/share/ros2_control/cmake)
+[4.485s] -- Found ros2_controllers: 2.45.0 (/opt/ros/humble/share/ros2_controllers/cmake)
+[4.490s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[4.634s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.825s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.825s] -- Configured cppcheck include dirs: 
+[4.826s] -- Configured cppcheck exclude dirs and/or files: 
+[4.831s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.831s] -- Added test 'lint_cmake' to check CMake code style
+[4.833s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[4.840s] -- Added test 'uncrustify' to check C / C++ code style
+[4.840s] -- Configured uncrustify additional arguments: 
+[4.848s] -- Added test 'xmllint' to check XML markup files
+[4.849s] -- Configuring done
+[4.907s] -- Generating done
+[4.916s] -- Build files have been written to: /home/suphasitpp/my_msc_ws/build/ecm_description
+[4.940s] Invoked command in '/home/suphasitpp/my_msc_ws/build/ecm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake /home/suphasitpp/my_msc_ws/src/dvrk_urdf/ecm_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/suphasitpp/my_msc_ws/install/ecm_description
+[4.941s] Invoking command in '/home/suphasitpp/my_msc_ws/build/ecm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/ecm_description -- -j8 -l8
+[5.520s] [ 50%] [32mBuilding CXX object CMakeFiles/ecm_joint_controller.dir/src/ecm_joint_controller.cpp.o[0m
+[14.925s] [100%] [32m[1mLinking CXX executable ecm_joint_controller[0m
+[16.463s] [100%] Built target ecm_joint_controller
+[16.594s] Invoked command in '/home/suphasitpp/my_msc_ws/build/ecm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/ecm_description -- -j8 -l8
+[16.595s] Invoking command in '/home/suphasitpp/my_msc_ws/build/ecm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/ecm_description
+[17.264s] -- Install configuration: ""
+[17.264s] -- Execute custom install script
+[17.265s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/config/ecm.base.controllers.yaml
+[17.265s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/config/ecm.controllers.yaml
+[17.265s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/launch/README.md
+[17.265s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/launch/ecm_base_bringup.launch.py
+[17.265s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/launch/ecm_bringup.launch.py
+[17.265s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/launch/view_robot.launch.py
+[17.265s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm/EndoScope.stl
+[17.265s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm/Endo_Arm.stl
+[17.265s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm/Endo_Link_5.stl
+[17.265s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm/Endo_Link_5_2.stl
+[17.265s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm/Endo_Link_6_2.stl
+[17.266s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm/Endo_Link_7.stl
+[17.266s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm/Endo_Link_8.stl
+[17.266s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_base_link.stl
+[17.266s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_main_insertion_link.stl
+[17.296s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_pitch_back_link.stl
+[17.340s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_pitch_bottom_link.stl
+[17.387s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_pitch_end_link.stl
+[17.419s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_pitch_front_link.stl
+[17.480s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_pitch_top_link.stl
+[17.527s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_remote_center_link.stl
+[17.565s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_tool_link.stl
+[17.601s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/meshes/ecm_base/ecm_yaw_link.stl
+[17.653s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/rviz/ecm_description.rviz
+[17.695s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/README.md
+[17.727s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/ecm.base.urdf.xacro
+[17.777s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/ecm.urdf.xacro
+[17.815s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/ros2_control/README.md
+[17.852s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/ros2_control/ecm.base.ros2_control.xacro
+[17.905s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/ros2_control/ecm.ros2_control.xacro
+[17.956s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/xacros/README.md
+[18.041s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/xacros/common.xacro
+[18.109s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/xacros/ecm.base.xacro
+[18.158s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/urdf/xacros/ecm.xacro
+[18.209s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/lib/ecm_description/ecm_joint_controller
+[18.284s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ament_index/resource_index/package_run_dependencies/ecm_description
+[18.345s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ament_index/resource_index/parent_prefix_path/ecm_description
+[18.387s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/environment/ament_prefix_path.sh
+[18.425s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/environment/ament_prefix_path.dsv
+[18.512s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/environment/path.sh
+[18.551s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/environment/path.dsv
+[18.596s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/local_setup.bash
+[18.643s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/local_setup.sh
+[18.679s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/local_setup.zsh
+[18.707s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/local_setup.dsv
+[18.728s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/package.dsv
+[18.758s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ament_index/resource_index/packages/ecm_description
+[18.791s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/cmake/ecm_descriptionConfig.cmake
+[18.827s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/cmake/ecm_descriptionConfig-version.cmake
+[18.851s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/ecm_description/share/ecm_description/package.xml
+[18.883s] Invoked command in '/home/suphasitpp/my_msc_ws/build/ecm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/ecm_description

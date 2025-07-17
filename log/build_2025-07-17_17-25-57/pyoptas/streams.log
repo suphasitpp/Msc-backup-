@@ -1,0 +1,14 @@
+[2.274s] Invoking command in '/home/suphasitpp/my_msc_ws/build/pyoptas': PYTHONPATH=/home/suphasitpp/my_msc_ws/build/pyoptas/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/suphasitpp/my_msc_ws/install/pyoptas/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/suphasitpp/my_msc_ws/build/pyoptas/build --no-deps
+[2.830s] running develop
+[3.178s] running egg_info
+[3.179s] writing pyoptas.egg-info/PKG-INFO
+[3.180s] writing dependency_links to pyoptas.egg-info/dependency_links.txt
+[3.180s] writing requirements to pyoptas.egg-info/requires.txt
+[3.180s] writing top-level names to pyoptas.egg-info/top_level.txt
+[3.184s] reading manifest file 'pyoptas.egg-info/SOURCES.txt'
+[3.185s] writing manifest file 'pyoptas.egg-info/SOURCES.txt'
+[3.188s] running build_ext
+[3.188s] Creating /home/suphasitpp/my_msc_ws/install/pyoptas/lib/python3.10/site-packages/pyoptas.egg-link (link to .)
+[3.189s] 
+[3.190s] Installed /home/suphasitpp/my_msc_ws/build/pyoptas
+[3.267s] Invoked command in '/home/suphasitpp/my_msc_ws/build/pyoptas' returned '0': PYTHONPATH=/home/suphasitpp/my_msc_ws/build/pyoptas/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/suphasitpp/my_msc_ws/install/pyoptas/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/suphasitpp/my_msc_ws/build/pyoptas/build --no-deps

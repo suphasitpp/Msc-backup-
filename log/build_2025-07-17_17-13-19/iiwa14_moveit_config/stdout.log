@@ -1,0 +1,27 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/ament_index/resource_index/package_run_dependencies/iiwa14_moveit_config
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/ament_index/resource_index/parent_prefix_path/iiwa14_moveit_config
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/ament_prefix_path.sh
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/ament_prefix_path.dsv
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/path.sh
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/environment/path.dsv
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.bash
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.sh
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.zsh
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/local_setup.dsv
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/package.dsv
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/ament_index/resource_index/packages/iiwa14_moveit_config
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/cmake/iiwa14_moveit_configConfig.cmake
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/cmake/iiwa14_moveit_configConfig-version.cmake
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/package.xml
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/launch/move_group.launch.py
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/launch/moveit_rviz.launch.py
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/launch/setup_assistant.launch.py
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/iiwa14.srdf
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/joint_limits.yaml
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/kinematics.yaml
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/moveit.rviz
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/moveit_controllers.yaml
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/config/pilz_cartesian_limits.yaml
+-- Symlinking: /home/suphasitpp/my_msc_ws/install/iiwa14_moveit_config/share/iiwa14_moveit_config/.setup_assistant

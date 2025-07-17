@@ -1,0 +1,6 @@
+source;share/pyoptas/hook/pythonpath.ps1
+source;share/pyoptas/hook/pythonpath.dsv
+source;share/pyoptas/hook/pythonpath.sh
+source;../../build/pyoptas/share/pyoptas/hook/pythonpath_develop.ps1
+source;../../build/pyoptas/share/pyoptas/hook/pythonpath_develop.dsv
+source;../../build/pyoptas/share/pyoptas/hook/pythonpath_develop.sh

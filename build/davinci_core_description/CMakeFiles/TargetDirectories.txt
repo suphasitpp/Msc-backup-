@@ -1,0 +1,10 @@
+/home/suphasitpp/my_msc_ws/build/davinci_core_description/CMakeFiles/uninstall.dir
+/home/suphasitpp/my_msc_ws/build/davinci_core_description/CMakeFiles/davinci_core_description_uninstall.dir
+/home/suphasitpp/my_msc_ws/build/davinci_core_description/CMakeFiles/davinci_core_joint_controller.dir
+/home/suphasitpp/my_msc_ws/build/davinci_core_description/CMakeFiles/test.dir
+/home/suphasitpp/my_msc_ws/build/davinci_core_description/CMakeFiles/edit_cache.dir
+/home/suphasitpp/my_msc_ws/build/davinci_core_description/CMakeFiles/rebuild_cache.dir
+/home/suphasitpp/my_msc_ws/build/davinci_core_description/CMakeFiles/list_install_components.dir
+/home/suphasitpp/my_msc_ws/build/davinci_core_description/CMakeFiles/install.dir
+/home/suphasitpp/my_msc_ws/build/davinci_core_description/CMakeFiles/install/local.dir
+/home/suphasitpp/my_msc_ws/build/davinci_core_description/CMakeFiles/install/strip.dir

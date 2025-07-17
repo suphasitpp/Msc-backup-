@@ -1,0 +1,178 @@
+[0.051s] Invoking command in '/home/suphasitpp/my_msc_ws/build/psm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake /home/suphasitpp/my_msc_ws/src/dvrk_urdf/psm_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/suphasitpp/my_msc_ws/install/psm_description
+[0.591s] -- The C compiler identification is GNU 11.4.0
+[0.616s] -- The CXX compiler identification is GNU 11.4.0
+[0.653s] -- Detecting C compiler ABI info
+[0.956s] -- Detecting C compiler ABI info - done
+[0.972s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.972s] -- Detecting C compile features
+[0.973s] -- Detecting C compile features - done
+[0.980s] -- Detecting CXX compiler ABI info
+[1.282s] -- Detecting CXX compiler ABI info - done
+[1.300s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.300s] -- Detecting CXX compile features
+[1.301s] -- Detecting CXX compile features - done
+[1.308s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.704s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.833s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.940s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[2.149s] -- Found xacro: 2.0.13 (/opt/ros/humble/share/xacro/cmake)
+[2.153s] -- Found robot_state_publisher: 3.0.3 (/opt/ros/humble/share/robot_state_publisher/cmake)
+[2.217s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.233s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.252s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.282s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.308s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.429s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[2.432s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[2.432s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[2.531s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.542s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.588s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[2.876s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.881s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[2.923s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.930s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[2.950s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[2.983s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.018s] -- Looking for pthread.h
+[3.350s] -- Looking for pthread.h - found
+[3.351s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.571s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.573s] -- Found Threads: TRUE  
+[3.974s] -- Found trajectory_msgs: 4.8.0 (/opt/ros/humble/share/trajectory_msgs/cmake)
+[4.015s] -- Found controller_manager: 2.50.0 (/opt/ros/humble/share/controller_manager/cmake)
+[4.219s] -- Found joint_state_broadcaster: 2.45.0 (/opt/ros/humble/share/joint_state_broadcaster/cmake)
+[4.297s] -- Found position_controllers: 2.45.0 (/opt/ros/humble/share/position_controllers/cmake)
+[4.344s] -- Found ros2_control: 2.50.0 (/opt/ros/humble/share/ros2_control/cmake)
+[4.344s] -- Found ros2_controllers: 2.45.0 (/opt/ros/humble/share/ros2_controllers/cmake)
+[4.348s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[4.390s] -- Found rclpy: 3.3.16 (/opt/ros/humble/share/rclpy/cmake)
+[4.510s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.703s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.703s] -- Configured cppcheck include dirs: 
+[4.704s] -- Configured cppcheck exclude dirs and/or files: 
+[4.705s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.710s] -- Added test 'lint_cmake' to check CMake code style
+[4.712s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[4.726s] -- Added test 'uncrustify' to check C / C++ code style
+[4.726s] -- Configured uncrustify additional arguments: 
+[4.730s] -- Added test 'xmllint' to check XML markup files
+[4.739s] -- Configuring done
+[4.801s] -- Generating done
+[4.813s] -- Build files have been written to: /home/suphasitpp/my_msc_ws/build/psm_description
+[4.838s] Invoked command in '/home/suphasitpp/my_msc_ws/build/psm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake /home/suphasitpp/my_msc_ws/src/dvrk_urdf/psm_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/suphasitpp/my_msc_ws/install/psm_description
+[4.842s] Invoking command in '/home/suphasitpp/my_msc_ws/build/psm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/psm_description -- -j8 -l8
+[5.122s] [ 50%] [32mBuilding CXX object CMakeFiles/psm_joint_controller.dir/src/psm_joint_controller.cpp.o[0m
+[17.177s] [100%] [32m[1mLinking CXX executable psm_joint_controller[0m
+[18.331s] [100%] Built target psm_joint_controller
+[18.373s] Invoked command in '/home/suphasitpp/my_msc_ws/build/psm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/psm_description -- -j8 -l8
+[18.373s] Invoking command in '/home/suphasitpp/my_msc_ws/build/psm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/psm_description
+[18.867s] -- Install configuration: ""
+[18.867s] -- Execute custom install script
+[18.867s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/launch/README.md
+[18.867s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/launch/psm_bringup.launch.py
+[18.867s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/launch/view_robot.launch.py
+[18.867s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/knife.stl
+[18.868s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_insertion.dae
+[18.868s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_insertion.stl
+[18.868s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_back.dae
+[18.868s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_back.stl
+[18.868s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_bottom.dae
+[18.868s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_bottom.stl
+[18.869s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_front.dae
+[18.870s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_front.stl
+[18.870s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_top.dae
+[18.888s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_pitch_top.stl
+[18.910s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_yaw.dae
+[18.947s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/outer_yaw.stl
+[18.979s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/psm_base.dae
+[19.023s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/psm_base.stl
+[19.057s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_adapter.dae
+[19.088s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_adapter.stl
+[19.114s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_main.dae
+[19.140s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_main.stl
+[19.179s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_caudier_link_1.stl
+[19.206s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_caudier_link_1_shaft.stl
+[19.228s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_caudier_link_2.stl
+[19.270s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_link.dae
+[19.316s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_link.stl
+[19.376s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_sca_link.dae
+[19.406s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_sca_link.stl
+[19.439s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_sca_link_2.dae
+[19.485s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_sca_link_2.stl
+[19.510s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_sca_shaft_link.dae
+[19.539s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_sca_shaft_link.stl
+[19.572s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_shaft_link.dae
+[19.596s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Classic/tool_wrist_shaft_link.stl
+[19.626s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_main_link.stl
+[19.656s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_wrist_link.stl
+[19.676s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_wrist_sca_ee_link_1.stl
+[19.701s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_wrist_sca_ee_link_2.stl
+[19.718s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_wrist_sca_link.stl
+[19.758s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_wrist_sca_shaft_link.stl
+[19.788s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_wrist_scal_link.stl
+[19.821s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/P420006/tool_wrist_shaft_link.stl
+[19.858s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/SF826001/tool_main_link.stl
+[19.903s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/SF826001/tool_roll_link.stl
+[19.940s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Si/link_0.stl
+[20.007s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Si/link_1.stl
+[20.046s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Si/link_2.stl
+[20.060s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Si/link_3.stl
+[20.088s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/Si/link_4.stl
+[20.104s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/snake_tool/gripper_2.stl
+[20.119s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/snake_tool/gripper_3.stl
+[20.136s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/snake_tool/link_0.stl
+[20.153s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/snake_tool/link_1.stl
+[20.175s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/snake_tool/link_2.stl
+[20.198s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/snake_tool/link_3.stl
+[20.217s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/meshes/snake_tool/link_4.stl
+[20.236s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/rviz/psm_description.rviz
+[20.261s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/README.md
+[20.278s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/both_psms.classic.urdf.xacro
+[20.298s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/psm.classic.urdf.xacro
+[20.313s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/psm.si.urdf.xacro
+[20.333s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/README.md
+[20.353s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.base.ros2_control.xacro
+[20.372s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.tool.blade.ros2_control.xacro
+[20.387s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.tool.caudier.blade.ros2_control.xacro
+[20.405s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.tool.caudier.ros2_control.xacro
+[20.418s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.tool.ros2_control.xacro
+[20.434s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.tool.sca.blade.ros2_control.xacro
+[20.453s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.tool.sca.ros2_control.xacro
+[20.466s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Classic/psm.tool.snake.ros2_control.xacro
+[20.480s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Si/README.md
+[20.495s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Si/psm.base.ros2_control.xacro
+[20.507s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Si/psm.tool.P420006.ros2_control.xacro
+[20.518s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Si/psm.tool.SF826001.ros2_control.xacro
+[20.531s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/ros2_control/Si/psm.tool.ros2_control.xacro
+[20.549s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/README.md
+[20.562s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.base.xacro
+[20.576s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.tool.blade.xacro
+[20.594s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.tool.caudier.blade.xacro
+[20.613s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.tool.caudier.xacro
+[20.629s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.tool.sca.blade.xacro
+[20.649s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.tool.sca.xacro
+[20.666s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.tool.snake.xacro
+[20.681s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Classic/psm.tool.xacro
+[20.695s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Si/README.md
+[20.709s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Si/psm.base.xacro
+[20.721s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Si/psm.tool.P420006.xacro
+[20.736s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Si/psm.tool.SF826001.xacro
+[20.750s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/urdf/xacros/Si/psm.tool.xacro
+[20.764s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/lib/psm_description/psm_joint_controller
+[20.778s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/lib/psm_description/generate_controller.py
+[20.792s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/ament_index/resource_index/package_run_dependencies/psm_description
+[20.805s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/ament_index/resource_index/parent_prefix_path/psm_description
+[20.818s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/environment/ament_prefix_path.sh
+[20.830s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/environment/ament_prefix_path.dsv
+[20.844s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/environment/path.sh
+[20.856s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/environment/path.dsv
+[20.869s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/local_setup.bash
+[20.886s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/local_setup.sh
+[20.902s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/local_setup.zsh
+[20.914s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/local_setup.dsv
+[20.926s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/package.dsv
+[20.940s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/ament_index/resource_index/packages/psm_description
+[20.952s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/cmake/psm_descriptionConfig.cmake
+[20.965s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/cmake/psm_descriptionConfig-version.cmake
+[20.980s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/psm_description/share/psm_description/package.xml

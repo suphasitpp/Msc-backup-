@@ -1,0 +1,56 @@
+[0.070s] Invoking command in '/home/suphasitpp/my_msc_ws/build/mtm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/mtm_description -- -j8 -l8
+[0.498s] [35m[1mConsolidate compiler generated dependencies of target mtms_joint_controller[0m
+[0.498s] [100%] Built target mtms_joint_controller
+[0.561s] Invoked command in '/home/suphasitpp/my_msc_ws/build/mtm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/mtm_description -- -j8 -l8
+[0.563s] Invoking command in '/home/suphasitpp/my_msc_ws/build/mtm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/mtm_description
+[0.610s] -- Install configuration: ""
+[0.612s] -- Execute custom install script
+[0.612s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/config/mtms.controllers.yaml
+[0.612s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/launch/README.md
+[0.613s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/launch/mtms_bringup.launch.py
+[0.613s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/launch/view_robot.launch.py
+[0.614s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/ArmParallel.dae
+[0.614s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/ArmParallel.stl
+[0.619s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/ArmParallel1.dae
+[0.619s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/ArmParallel1.stl
+[0.620s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/BottomArm.dae
+[0.621s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/BottomArm.stl
+[0.622s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/Link.dae
+[0.623s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/Link.stl
+[0.623s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/OutPitch_Shoulder.dae
+[0.623s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/OutPitch_Shoulder.stl
+[0.624s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/TopPanel.dae
+[0.624s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/TopPanel.stl
+[0.624s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/WristPitch.dae
+[0.624s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/WristPitch.stl
+[0.625s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/WristPlatform.dae
+[0.625s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/WristPlatform.stl
+[0.625s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/WristRoll.dae
+[0.625s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/WristRoll.stl
+[0.625s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/WristYaw.dae
+[0.625s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/meshes/WristYaw.stl
+[0.630s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/rviz/mtm_description.rviz
+[0.631s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/urdf/README.md
+[0.631s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/urdf/mtms.urdf.xacro
+[0.632s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/urdf/ros2_control/README.md
+[0.632s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/urdf/ros2_control/mtm.ros2_control.xacro
+[0.632s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/urdf/xacros/README.md
+[0.633s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/urdf/xacros/common.xacro
+[0.633s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/urdf/xacros/mtm.xacro
+[0.633s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/lib/mtm_description/mtms_joint_controller
+[0.633s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/ament_index/resource_index/package_run_dependencies/mtm_description
+[0.633s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/ament_index/resource_index/parent_prefix_path/mtm_description
+[0.634s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/environment/ament_prefix_path.sh
+[0.634s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/environment/ament_prefix_path.dsv
+[0.634s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/environment/path.sh
+[0.634s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/environment/path.dsv
+[0.634s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/local_setup.bash
+[0.634s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/local_setup.sh
+[0.634s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/local_setup.zsh
+[0.634s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/local_setup.dsv
+[0.634s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/package.dsv
+[0.638s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/ament_index/resource_index/packages/mtm_description
+[0.638s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/cmake/mtm_descriptionConfig.cmake
+[0.638s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/cmake/mtm_descriptionConfig-version.cmake
+[0.638s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/mtm_description/share/mtm_description/package.xml
+[0.802s] Invoked command in '/home/suphasitpp/my_msc_ws/build/mtm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/mtm_description

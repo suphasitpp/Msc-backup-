@@ -1,0 +1,1 @@
+/home/suphasitpp/my_msc_ws/build/moveit_config_attached/ament_cmake_core/moveit_config_attachedConfig-version.cmake

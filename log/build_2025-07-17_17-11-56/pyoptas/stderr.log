@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/suphasitpp/my_msc_ws/build/pyoptas/setup.py", line 9, in <module>
+    with open(readme_path, "r", encoding="utf-8") as fh:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/suphasitpp/my_msc_ws/build/README.md'

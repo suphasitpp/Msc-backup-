@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/suphasitpp/my_msc_ws/build/patient_cart_description/patient_cart_joint_controller" "TARGETS" "patient_cart_joint_controller" "DESTINATION" "lib/patient_cart_description")

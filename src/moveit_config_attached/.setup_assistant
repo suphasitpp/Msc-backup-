@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: moveit_config_attached
+    relative_path: urdf/med7attached.urdf
+  srdf:
+    relative_path: config/med7attached.srdf
+  package_settings:
+    author_name: suphasit
+    author_email: suphasitpp@gmail.com
+    generated_timestamp: 1752768375

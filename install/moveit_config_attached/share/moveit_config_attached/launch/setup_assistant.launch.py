@@ -1,0 +1,1 @@
+/home/suphasitpp/my_msc_ws/src/moveit_config_attached/launch/setup_assistant.launch.py

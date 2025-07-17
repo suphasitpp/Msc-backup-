@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: pyoptas
+Version: 1.0.7
+Summary: An optimization-based task specification library for task and motion planning (TAMP), trajectory optimization, and model predictive control.
+Home-page: https://github.com/cmower/optas
+Author: Christopher E. Mower
+Author-email: christopher.mower@kcl.ac.uk
+License: Apache License, Version 2.0
+Project-URL: Bug Tracker, https://github.com/cmower/optas/issues
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Provides-Extra: example
+Provides-Extra: test
+
+UNKNOWN
+

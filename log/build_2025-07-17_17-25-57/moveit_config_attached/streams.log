@@ -1,0 +1,42 @@
+[0.623s] Invoking command in '/home/suphasitpp/my_msc_ws/build/moveit_config_attached': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/moveit_config_attached -- -j8 -l8
+[1.135s] Invoked command in '/home/suphasitpp/my_msc_ws/build/moveit_config_attached' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/moveit_config_attached -- -j8 -l8
+[1.137s] Invoking command in '/home/suphasitpp/my_msc_ws/build/moveit_config_attached': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/moveit_config_attached
+[1.182s] -- Install configuration: ""
+[1.182s] -- Execute custom install script
+[1.182s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/ament_index/resource_index/package_run_dependencies/moveit_config_attached
+[1.182s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/ament_index/resource_index/parent_prefix_path/moveit_config_attached
+[1.183s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/environment/ament_prefix_path.sh
+[1.183s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/environment/ament_prefix_path.dsv
+[1.184s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/environment/path.sh
+[1.184s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/environment/path.dsv
+[1.184s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/local_setup.bash
+[1.184s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/local_setup.sh
+[1.185s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/local_setup.zsh
+[1.185s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/local_setup.dsv
+[1.185s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/package.dsv
+[1.244s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/ament_index/resource_index/packages/moveit_config_attached
+[1.244s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/cmake/moveit_config_attachedConfig.cmake
+[1.245s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/cmake/moveit_config_attachedConfig-version.cmake
+[1.245s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/package.xml
+[1.246s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/launch/demo.launch.py
+[1.246s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/launch/move_group.launch.py
+[1.246s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/launch/moveit_rviz.launch.py
+[1.246s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/launch/rsp.launch.py
+[1.246s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/launch/setup_assistant.launch.py
+[1.247s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/launch/spawn_controllers.launch.py
+[1.248s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/launch/static_virtual_joint_tfs.launch.py
+[1.248s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/launch/warehouse_db.launch.py
+[1.248s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/config/initial_positions.yaml
+[1.249s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/config/joint_limits.yaml
+[1.249s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/config/kinematics.yaml
+[1.250s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/config/med7attached.ros2_control.xacro
+[1.250s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/config/med7attached.srdf
+[1.250s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/config/med7attached.urdf.xacro
+[1.251s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/config/moveit.rviz
+[1.251s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/config/moveit_controllers.yaml
+[1.251s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/config/pilz_cartesian_limits.yaml
+[1.252s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/config/sensors_3d.yaml
+[1.252s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/.setup_assistant
+[1.252s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/urdf/med7attached.urdf
+[1.252s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/moveit_config_attached/share/moveit_config_attached/urdf/med7.xacro
+[1.257s] Invoked command in '/home/suphasitpp/my_msc_ws/build/moveit_config_attached' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/moveit_config_attached

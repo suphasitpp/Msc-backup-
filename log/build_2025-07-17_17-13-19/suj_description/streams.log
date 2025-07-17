@@ -1,0 +1,78 @@
+[0.060s] Invoking command in '/home/suphasitpp/my_msc_ws/build/suj_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/suj_description -- -j8 -l8
+[0.480s] [35m[1mConsolidate compiler generated dependencies of target suj_joint_controller[0m
+[0.480s] [100%] Built target suj_joint_controller
+[0.500s] Invoked command in '/home/suphasitpp/my_msc_ws/build/suj_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/suj_description -- -j8 -l8
+[0.502s] Invoking command in '/home/suphasitpp/my_msc_ws/build/suj_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/suj_description
+[0.544s] -- Install configuration: ""
+[0.544s] -- Execute custom install script
+[0.544s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/config/suj.controllers.yaml
+[0.544s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/launch/README.md
+[0.544s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/launch/suj_bringup.launch.py
+[0.547s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/launch/view_robot.launch.py
+[0.549s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/base_link.stl
+[0.549s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_ecm_L0.stl
+[0.549s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_ecm_L1.stl
+[0.549s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_ecm_L2.stl
+[0.550s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_ecm_L3.stl
+[0.550s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm1_L0.stl
+[0.550s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm1_L1.stl
+[0.550s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm1_L2.stl
+[0.551s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm1_L3.stl
+[0.551s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm1_L4.stl
+[0.551s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm2_L0.stl
+[0.551s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm2_L1.stl
+[0.551s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm2_L2.stl
+[0.551s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm2_L3.stl
+[0.551s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm2_L4.stl
+[0.552s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm3_L0.stl
+[0.552s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm3_L1.stl
+[0.552s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm3_L2.stl
+[0.552s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm3_L3.stl
+[0.552s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Classic/suj_psm3_L4.stl
+[0.552s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Si/ECM/link_0.stl
+[0.552s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Si/ECM/link_1.stl
+[0.553s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Si/ECM/link_2.stl
+[0.553s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Si/ECM/link_3.stl
+[0.554s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Si/PSM/12/link_0.stl
+[0.554s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Si/PSM/12/link_1.stl
+[0.554s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Si/PSM/12/link_2.stl
+[0.554s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Si/PSM/12/link_3.stl
+[0.554s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Si/PSM/3/link_0.stl
+[0.554s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Si/PSM/3/link_1.stl
+[0.554s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Si/PSM/3/link_2.stl
+[0.555s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Si/PSM/3/link_3.stl
+[0.555s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Si/PSM/3/link_4.stl
+[0.555s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/meshes/Si/tower.stl
+[0.555s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/rviz/suj_description.rviz
+[0.556s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/README.md
+[0.556s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/ros2_control/README.md
+[0.556s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/ros2_control/ecmj.ros2_control.xacro
+[0.556s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/ros2_control/psmj.ros2_control.xacro
+[0.556s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/suj.classic.urdf.xacro
+[0.557s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/suj.si.urdf.xacro
+[0.557s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/xacros/Classic/README.md
+[0.567s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/xacros/Classic/ecmj.xacro
+[0.567s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/xacros/Classic/psm1j.xacro
+[0.567s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/xacros/Classic/psm2j.xacro
+[0.567s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/xacros/Classic/psm3j.xacro
+[0.567s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/xacros/Si/README.md
+[0.568s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/xacros/Si/ecmj.xacro
+[0.568s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/xacros/Si/psm12j.xacro
+[0.568s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/urdf/xacros/Si/psm3j.xacro
+[0.568s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/lib/suj_description/suj_joint_controller
+[0.568s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/ament_index/resource_index/package_run_dependencies/suj_description
+[0.569s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/ament_index/resource_index/parent_prefix_path/suj_description
+[0.569s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/environment/ament_prefix_path.sh
+[0.569s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/environment/ament_prefix_path.dsv
+[0.569s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/environment/path.sh
+[0.569s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/environment/path.dsv
+[0.570s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/local_setup.bash
+[0.570s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/local_setup.sh
+[0.570s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/local_setup.zsh
+[0.571s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/local_setup.dsv
+[0.571s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/package.dsv
+[0.617s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/ament_index/resource_index/packages/suj_description
+[0.617s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/cmake/suj_descriptionConfig.cmake
+[0.617s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/cmake/suj_descriptionConfig-version.cmake
+[0.617s] -- Up-to-date symlink: /home/suphasitpp/my_msc_ws/install/suj_description/share/suj_description/package.xml
+[0.694s] Invoked command in '/home/suphasitpp/my_msc_ws/build/suj_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/suj_description

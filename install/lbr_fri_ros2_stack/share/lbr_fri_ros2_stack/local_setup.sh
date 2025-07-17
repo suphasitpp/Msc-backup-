@@ -1,0 +1,1 @@
+/home/suphasitpp/my_msc_ws/build/lbr_fri_ros2_stack/ament_cmake_environment_hooks/local_setup.sh

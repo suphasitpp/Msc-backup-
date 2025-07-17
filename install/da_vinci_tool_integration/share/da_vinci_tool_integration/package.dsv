@@ -1,0 +1,9 @@
+source;share/da_vinci_tool_integration/hook/pythonpath.ps1
+source;share/da_vinci_tool_integration/hook/pythonpath.dsv
+source;share/da_vinci_tool_integration/hook/pythonpath.sh
+source;share/da_vinci_tool_integration/hook/ament_prefix_path.ps1
+source;share/da_vinci_tool_integration/hook/ament_prefix_path.dsv
+source;share/da_vinci_tool_integration/hook/ament_prefix_path.sh
+source;../../build/da_vinci_tool_integration/share/da_vinci_tool_integration/hook/pythonpath_develop.ps1
+source;../../build/da_vinci_tool_integration/share/da_vinci_tool_integration/hook/pythonpath_develop.dsv
+source;../../build/da_vinci_tool_integration/share/da_vinci_tool_integration/hook/pythonpath_develop.sh

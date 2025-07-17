@@ -1,0 +1,67 @@
+[0.061s] Invoking command in '/home/suphasitpp/my_msc_ws/build/kdl_parser': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake /home/suphasitpp/my_msc_ws/src/kdl_parser/kdl_parser -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/suphasitpp/my_msc_ws/install/kdl_parser
+[0.608s] -- The C compiler identification is GNU 11.4.0
+[0.636s] -- The CXX compiler identification is GNU 11.4.0
+[0.677s] -- Detecting C compiler ABI info
+[0.974s] -- Detecting C compiler ABI info - done
+[0.989s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.989s] -- Detecting C compile features
+[0.990s] -- Detecting C compile features - done
+[0.992s] -- Detecting CXX compiler ABI info
+[1.355s] -- Detecting CXX compiler ABI info - done
+[1.383s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.383s] -- Detecting CXX compile features
+[1.384s] -- Detecting CXX compile features - done
+[1.391s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.837s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.968s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.055s] -- Found orocos_kdl_vendor: 0.2.5 (/opt/ros/humble/share/orocos_kdl_vendor/cmake)
+[2.134s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[2.137s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[2.139s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[2.145s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[2.294s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.475s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.475s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/suphasitpp/my_msc_ws/src/kdl_parser/kdl_parser/include>
+[2.476s] -- Configured cppcheck exclude dirs and/or files: 
+[2.477s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.478s] -- Configured cpplint exclude dirs and/or files: 
+[2.479s] -- Added test 'lint_cmake' to check CMake code style
+[2.482s] -- Added test 'uncrustify' to check C / C++ code style
+[2.482s] -- Configured uncrustify additional arguments: 
+[2.484s] -- Added test 'xmllint' to check XML markup files
+[2.492s] -- Configuring done
+[2.500s] -- Generating done
+[2.502s] -- Build files have been written to: /home/suphasitpp/my_msc_ws/build/kdl_parser
+[2.521s] Invoked command in '/home/suphasitpp/my_msc_ws/build/kdl_parser' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake /home/suphasitpp/my_msc_ws/src/kdl_parser/kdl_parser -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/suphasitpp/my_msc_ws/install/kdl_parser
+[2.523s] Invoking command in '/home/suphasitpp/my_msc_ws/build/kdl_parser': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/kdl_parser -- -j8 -l8
+[2.742s] [ 50%] [32mBuilding CXX object CMakeFiles/kdl_parser.dir/src/kdl_parser.cpp.o[0m
+[4.642s] [100%] [32m[1mLinking CXX shared library libkdl_parser.so[0m
+[4.845s] [100%] Built target kdl_parser
+[4.895s] Invoked command in '/home/suphasitpp/my_msc_ws/build/kdl_parser' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --build /home/suphasitpp/my_msc_ws/build/kdl_parser -- -j8 -l8
+[4.899s] Invoking command in '/home/suphasitpp/my_msc_ws/build/kdl_parser': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/kdl_parser
+[4.944s] -- Install configuration: ""
+[4.944s] -- Execute custom install script
+[4.945s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/include/kdl_parser/kdl_parser/kdl_parser.hpp
+[4.969s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/include/kdl_parser/kdl_parser/visibility_control.hpp
+[5.001s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/ament_index/resource_index/package_run_dependencies/kdl_parser
+[5.040s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/ament_index/resource_index/parent_prefix_path/kdl_parser
+[5.078s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/environment/ament_prefix_path.sh
+[5.107s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/environment/ament_prefix_path.dsv
+[5.155s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/environment/path.sh
+[5.185s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/environment/path.dsv
+[5.214s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/local_setup.bash
+[5.243s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/local_setup.sh
+[5.281s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/local_setup.zsh
+[5.300s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/local_setup.dsv
+[5.322s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/package.dsv
+[5.344s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/ament_index/resource_index/packages/kdl_parser
+[5.382s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.425s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/cmake/ament_cmake_export_targets-extras.cmake
+[5.452s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/cmake/kdl_parserConfig.cmake
+[5.479s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/cmake/kdl_parserConfig-version.cmake
+[5.501s] -- Symlinking: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/package.xml
+[5.525s] -- Installing: /home/suphasitpp/my_msc_ws/install/kdl_parser/lib/libkdl_parser.so
+[5.525s] -- Set runtime path of "/home/suphasitpp/my_msc_ws/install/kdl_parser/lib/libkdl_parser.so" to ""
+[5.525s] -- Installing: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/cmake/export_kdl_parserExport.cmake
+[5.525s] -- Installing: /home/suphasitpp/my_msc_ws/install/kdl_parser/share/kdl_parser/cmake/export_kdl_parserExport-noconfig.cmake
+[5.528s] Invoked command in '/home/suphasitpp/my_msc_ws/build/kdl_parser' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/suphasitpp/my_msc_ws/install/lbr_demos_py:/home/suphasitpp/my_msc_ws/install/lbr_moveit:/home/suphasitpp/my_msc_ws/install/lbr_demos_advanced_py:/home/suphasitpp/my_msc_ws/install/da_vinci_tool_integration:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_py:/home/suphasitpp/da-vinci-tool-combined/install/lbr_moveit:/home/suphasitpp/da-vinci-tool-combined/install/lbr_demos_advanced_py:/home/suphasitpp/da-vinci-tool-combined/install/da_vinvi_tool_robot_integration:/opt/ros/humble /usr/bin/cmake --install /home/suphasitpp/my_msc_ws/build/kdl_parser
